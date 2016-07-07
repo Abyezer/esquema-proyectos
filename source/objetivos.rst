@@ -45,30 +45,9 @@ al publico sobre cultura o eventos de cultura, que sea de facil acceso.
 Objetivos del proyecto
 ----------------------
 
-1. Reunir contenidos:
-   Reunir los datos de artistas
-   Los datos de los artistas y eventos, para poder visualizarlo mas facil.
-   La cantidad de artistas pueda aumentar de los actuales conocidos a todos los artistas
-   de Quetzlatenango.
-   Tener la informacion de contacto de los artistas.
-   Un año, mas menos.
+1. Reunir datos para el directorio en un 100% para que el publico pueda conocer a personas o empresas de caracter cultural, en un tiempo determinado
+   por los encargados de la empresa.
 
-1. Informar:
-   Informar al publico sobre los acontecimientos, eventos y artistas.
-   Cualquier persona que tenga la aplicacion tendrá acceso a los datos publicos, y notificaciones.
-   Informar al publico local y extranjero, siempre y cuando tenga la aplicacion instalada o
-   visite la pagina, en el caso de artistas que viven en otro lugar.
-   En un mes, ya se debe registrar la informacion acerca de los artistas, y conmemoraciones,
-   y posteriormente ir añadiendose cada vez mas.
+2. Informar a un 30% del publico con conmemoraciones sobre los acontecimientos culturales importantes.
 
-2. Siempre encontrar lo que se busca:
-   El publico podrá encontrar los eventos a los que están interesados y los artistas si lo que desean
-   es contactar con ellos.
-   Que se pueda ver con facilidad los artistas que son de Quetzaltenango.
-   Se podrán ver todos los datos registrados que sean publicos, llevará tiempo hacer popular la pagina.
-
-3. Facilitar desiciones:
-   Con la informacion que se reunirá, coordinacion podrá tomar desiciones en base a lo que está sucediendo
-   actualmente, para atraer la atencion del publico mas facilmente, de acuerdo a sus preferencias.
-   Desde el comienzo se podrán visualizar las estadisticas de preferencias, mientras mas avance en el tiempo
-   los datos serán mas concretos.
+3. En los primeros 6 meses, las desiciones ya deben ser mas acertadas en base a la preferencia del publico.
