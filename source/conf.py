@@ -46,8 +46,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Documentación de proyecto "Nombre"'
-copyright = u'2016, Alumno'
+project = u'Documentación de proyecto "Casa de la cultura"'
+copyright = u'2016, Abyezer'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -205,8 +205,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'DocumentacindeproyectoNombre.tex', u'Documentación de proyecto "Nombre" Documentation',
-   u'Alumno', 'manual'),
+  ('index', 'DocumentacindeproyectoNombre.tex', u'Documentación de proyecto "Casa de la cultura" Documentation',
+   u'Abyezer', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

@@ -4,8 +4,32 @@ Diseño de la aplicacíon
 Casos de Uso
 ------------
 
-Se colocan los distintos casos de uso, tanto para la aplicación general como para
-cada módulo.
+Administrador
+*************
+.. figure:: Diagramas/Administrador.png
+
+
+Artistas
+********
+.. figure:: Diagramas/Artista.png
+
+
+Actividades
+***********
+.. figure:: Diagramas/Evento.png
+
+
+Capsulas
+********
+.. figure:: Diagramas/Capsulas.png
+
+
+Estadisticas
+************
+.. figure:: Diagramas/Estadisticas.png
+
+
+
 
 Clases
 ------
