@@ -47,7 +47,11 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Documentación de proyecto "Casa de la cultura"'
+<<<<<<< HEAD
 copyright = u'2016, Abyezer'
+=======
+copyright = u'2016, Abyezer Monzon'
+>>>>>>> 887b45e017be818f33126df790c0a191aa68de07
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

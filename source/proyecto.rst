@@ -23,6 +23,7 @@ sistema, para evitar que personas ajenas lo utilicen.
 Modulos
 ^^^^^^^
 1. Administrador
+<<<<<<< HEAD
 ++++++++++++++++
 
 El administrador podrá ser el unico que puede usar este modulo, y es para organizar la agenda y el directorio, asi como
@@ -49,5 +50,28 @@ que se muestren en el tiempo que deben ser mostradas a los usuarios que tengan l
 5. Estadisticas
 +++++++++++++++
 
+=======
+----------------
+El administrador podrá ser el unico que puede usar este modulo, y es para organizar la agenda y el directorio, asi como
+aceptar las solicitudes de los nuevos elementos del directorio o de la agenda.
+
+2. Artistas
+-----------
+Controla las operaciones de los artistas, desde enviar la nueva solicitud, hasta hacerle modificaciones al perfil que tenga
+cada artista, tambien cada artista tendrá la opcion de añadir un nuevo evento al sistema.
+
+2. Actividades
+--------------
+Este modulo, es en donde se tiene el control de las actividades, en donde se puede visualizar las actividades segun su
+categoría, estará visible a todo el publico, y en este modulo se podran dejar reseñas de los eventos a los que hayan asistido.
+
+3. Capsulas
+-----------
+El administrador podrán añadir nuevas capsulas, como tambien eliminarlas o editarlas, tambien las programará para
+que se muestren en el tiempo que deben ser mostradas a los usuarios que tengan la aplicacion.
+
+4. Estadisticas
+---------------
+>>>>>>> 887b45e017be818f33126df790c0a191aa68de07
 Este modulo, será el encargado de guardar las preferencias del publico sobre los eventos o artistas, visitas que tenga la
 pagina para que con estos datos se puedan tomar desiciones mas acertadas.
